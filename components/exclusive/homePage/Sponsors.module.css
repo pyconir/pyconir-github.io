@@ -1,0 +1,60 @@
+.sponsorsSectionContainer {
+  width: 100%;
+  min-height: 100vh;
+  background-color: #f1fafc;
+  direction: rtl;
+  padding-left: 20vw;
+  padding-right: 20vw;
+  padding-top: 40px;
+}
+
+.sectionTitleContainer {
+  margin-bottom: 65px;
+}
+
+.sectionTitle {
+  font-family: "Fraunces", "Vazir";
+  font-weight: 700;
+  font-size: 56px;
+  margin-bottom: 7px;
+  color: #707070;
+}
+
+.sponsorsLogosContainer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  padding-top: 20px;
+  width: 100%;
+}
+
+.logoContainer {
+  margin: 50px 15px;
+  max-width: 350px;
+  min-width: 40%;
+  transition: all 0.1s ease-in-out;
+}
+
+.sponsorsLogo {
+  width: 100%;
+}
+
+.logoContainer:hover {
+  cursor: pointer;
+  border: solid 4px #acffdf;
+}
+
+@media screen and (max-width: 760px) {
+  .sponsorsSectionContainer {
+    padding-left: 5vw;
+    padding-right: 5vw;
+  }
+  .underLineImage {
+    width: 200px;
+  }
+  .logoContainer {
+    width: 100%;
+    max-width: 300px;
+  }
+}

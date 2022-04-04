@@ -1,0 +1,66 @@
+.calendarContainer {
+  width: 100%;
+}
+
+.dayTitle {
+}
+
+.dayContainer {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.workshop {
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(199, 248, 189, 0.4);
+  padding: 20px;
+  margin: 7px;
+  width: 250px;
+}
+
+.workshop:hover {
+  cursor: pointer;
+  background-color: rgba(199, 248, 189, 0.7);
+}
+
+.talk {
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(189, 248, 235, 0.4);
+  padding: 20px;
+  margin: 7px;
+  width: 250px;
+}
+
+.talk:hover {
+  cursor: pointer;
+  background-color: rgba(189, 248, 235, 0.7);
+}
+
+.talkTitle {
+  font-family: "Fraunces", "Vazir";
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 23px;
+  color: #2c2c2c;
+  margin-bottom: 7px;
+}
+
+.speaker {
+  font-family: "Fraunces", "Vazir";
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 20px;
+  color: #367553;
+}
+
+.speakeTime {
+  font-family: "Fraunces", "Vazir";
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 20px;
+  color: #3f4241;
+  margin-top: 8px;
+}

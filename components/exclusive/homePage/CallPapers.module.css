@@ -1,0 +1,40 @@
+.callPapersSectionContainer {
+  width: 100%;
+  background-color: #f1fafc;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-left: 10vw;
+  padding-right: 10vw;
+  padding-top: 30vh;
+  padding-bottom: 20vh;
+}
+
+.callActionButtonsContainer {
+}
+
+.callActionButtons {
+  height: 40vh;
+  box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.46);
+  border-radius: 20px;
+}
+
+.actionButtonText {
+  font-family: "Sahel";
+  font-weight: bolder;
+  font-size: 28px;
+  padding-top: 26px;
+  text-align: center;
+}
+
+.callActionButtons:hover {
+  cursor: pointer;
+  box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.46);
+  transition: all 0.3s;
+}
+
+.callActionButtons:active {
+  box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.46);
+  transform: scale(0.98);
+  transition: all 0.2s;
+}

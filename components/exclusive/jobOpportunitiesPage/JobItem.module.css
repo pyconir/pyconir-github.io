@@ -1,0 +1,76 @@
+.jobItemContainer {
+  background-color: white;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.16);
+  align-items: center;
+  transition: all 0.1s;
+  margin-top:40px;
+  min-height: 150px;
+}
+
+.jobItemContainer:hover {
+  cursor: pointer;
+  box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.2);
+}
+
+.jobItemContainer:active {
+  box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.6);
+}
+
+.brand {
+  width: 20%;
+  padding: 20px;
+}
+
+.brandImage {
+  width: 100%;
+}
+
+.jobDescription {
+  border-left: solid 2px #dddddd;
+  border-right: solid 2px #dddddd;
+  padding: 20px 40px;
+  width: 60%;
+  font-family: "Fraunces", "Vazir";
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 25px;
+  color: #2c2c2c;
+}
+
+.jobPayment {
+  width: 25%;
+  padding: 20px;
+  text-align: center;
+  font-family: "Fraunces", "Vazir";
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 25px;
+  color: #353535;
+}
+
+@media screen and (max-width: 740px) {
+  .jobItemContainer {
+    flex-direction: column;
+    justify-content: center;
+  }
+  .jobDescription {
+    border: none;
+    width: 100%;
+  }
+  .jobPayment{
+    width: 100%;
+  }
+  .brand {
+    width: 100%;
+    text-align: center;
+    padding-bottom: 0px;
+  }
+  .brandImage{
+    max-width: 150px;
+  }
+}

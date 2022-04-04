@@ -1,0 +1,157 @@
+.footerContainer {
+  width: 100%;
+  background-color: rgb(63, 124, 94);
+  overflow: hidden;
+}
+
+.footerTexts {
+  text-align: center;
+  color: white;
+  padding-top: 6vh;
+  padding-bottom: 9px;
+}
+
+.footerDownContainer {
+  background-color: rgb(63, 124, 94);
+  padding-top: 12vh;
+  padding-left: 4vw;
+  padding-right: 4vw;
+  display: flex;
+  flex-direction: row;
+}
+
+.footerHeader {
+  width: 60%;
+  color: #272e2b;
+  font-family: "Fraunces", "Vazir";
+  font-size: 40px;
+  font-weight: 600;
+}
+
+.headerIran {
+  background-color: beige;
+}
+
+.footerNav {
+  width: 40%;
+}
+
+.socialsContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.socialImage {
+  height: 3vw;
+  transition: all 0.1s ease-in-out;
+  opacity: 0.9;
+}
+
+.socialImage:hover {
+  opacity: 1;
+  transform: scale(1.1);
+}
+
+.footerNavItemsContainer {
+  padding-top: 10vh;
+  padding-left: 0px;
+  flex-direction: column;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.footerNavItem {
+  cursor: pointer;
+  padding-top: 3vh;
+  font-family: "Fraunces", "Vazir";
+  font-size: 18px;
+  font-weight: 300;
+  color: white;
+  transition: all 0.2s ease-in-out;
+}
+
+.footerNavItem:hover {
+  color: rgb(96, 228, 195);
+}
+
+.footerEmail {
+  text-align: center;
+  padding-top: 8vh;
+  font-family: "Fraunces", "Vazir";
+  font-size: 14px;
+  font-weight: 300;
+  color: white;
+}
+
+.footerMailAddress {
+  cursor: pointer;
+  color: white;
+  transition: all 0.2s ease-in-out;
+}
+
+.footerMailAddress:hover {
+  color: rgb(96, 228, 195);
+}
+
+.background {
+  position: absolute;
+  display: block;
+}
+
+.circle {
+  /* position: absolute;
+  top: -61%;
+  left: 40%; */
+  display: block;
+  background: #fff;
+  border: 1px solid #203350;
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+  -webkit-animation: circle 3s infinite;
+  animation: circle 3s infinite;
+  opacity: 0;
+}
+
+@-webkit-keyframes circle {
+  0% {
+    opacity: 0.2;
+    transform: scale(0);
+  }
+
+  to {
+    opacity: 0;
+    transform: scale(1);
+  }
+}
+
+@keyframes circle {
+  0% {
+    opacity: 0.2;
+    transform: scale(0);
+  }
+
+  to {
+    opacity: 0;
+    transform: scale(1);
+  }
+}
+
+@media all and (max-width: 540px) {
+  .footerDownContainer{
+    flex-direction: column;
+  }
+  .footerNav {
+    width: 100%;
+    padding-top: 20vw;
+  }
+  .socialsContainer {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .socialImage {
+    height: 11vw;
+  }
+}

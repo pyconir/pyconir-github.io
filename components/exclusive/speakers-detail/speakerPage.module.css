@@ -1,0 +1,90 @@
+.speakerPageContainer {
+  width: 100%;
+  min-height: 100vh;
+  background-color: #f1fafc;
+  direction: rtl;
+  padding-left: 20vw;
+  padding-right: 20vw;
+  padding-top: 100px;
+  padding-bottom: 13vh;
+}
+
+.speakerName {
+  text-align: center;
+  padding-bottom: 5vw;
+}
+
+.speakType {
+  display: inline-block;
+  font-family: "Fraunces", "Vazir";
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  padding: 8px 10px;
+  border-radius: 10px;
+  color: #ffffff;
+  text-align: center;
+  background-color: rgb(184, 243, 243);
+  text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.16);
+}
+
+.speakerImageContainer {
+  text-align: center;
+  margin-bottom: 7vw;
+}
+
+.speakerImage {
+  border-radius: 20px;
+  width: 25vw;
+}
+
+.videoContainer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 50px;
+  padding-top: 20px;
+}
+
+.videosWrapper {
+  width: 60vw;
+  height: 34vw;
+}
+
+.aboutSpeaker {
+  display: inline-block;
+  font-family: "Fraunces", "Vazir";
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 32px;
+  color: #3a3a3a;
+  padding-bottom: 3vw;
+}
+
+.speakTitle {
+  color: rgb(77, 131, 100);
+}
+
+.speakDetails {
+  display: inline-block;
+  font-family: "Fraunces", "Vazir";
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 30px;
+  color: #3a3a3a;
+}
+
+.speakerDetailsParagraphs {
+  margin-bottom: 18px;
+}
+
+@media screen and (max-width: 760px) {
+  .speakerPageContainer {
+    padding-left: 5vw;
+    padding-right: 5vw;
+  }
+  .videosWrapper {
+    width: 90vw;
+    height: 51vw;
+  }
+}

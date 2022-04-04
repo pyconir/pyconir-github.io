@@ -1,0 +1,27 @@
+.BuyTicketButtonContainer {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding-top: 10px;
+  padding-bottom: 13px;
+  width: 120px;
+  border-radius: 4px;
+  background-color: #4daf6a;
+  box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.3);
+  color: white;
+  transition: all 0.1s;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Fraunces", "Vazir";
+  text-decoration: none;
+}
+
+.BuyTicketButtonContainer:hover {
+  box-shadow: 0px 3px 12px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+}
+
+.BuyTicketButtonContainer:active {
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.6);
+  transform: scaleX(0.98);
+}

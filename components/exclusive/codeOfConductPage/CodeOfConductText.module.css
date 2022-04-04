@@ -1,0 +1,17 @@
+.CodeOfConductTextSectionContainer {
+  width: 100%;
+  min-height: 100vh;
+  background-color: #f1fafc;
+  direction: rtl;
+  padding-left: 20vw;
+  padding-right: 20vw;
+  padding-top: 100px;
+  padding-bottom: 13vh;
+}
+
+@media screen and (max-width: 760px) {
+  .CodeOfConductTextSectionContainer {
+    padding-left: 5vw;
+    padding-right: 5vw;
+  }
+}

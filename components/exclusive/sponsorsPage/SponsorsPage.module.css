@@ -1,0 +1,57 @@
+.sponsorsPageContainer {
+  width: 100%;
+  min-height: 100vh;
+  background-color: #f1fafc;
+  direction: rtl;
+  padding-left: 20vw;
+  padding-right: 20vw;
+  padding-top: 100px;
+  padding-bottom: 13vh;
+}
+
+.sponsorsDescriptionsContainer {
+  width: 100%;
+  padding-top: 20px;
+}
+
+.sponsorCard {
+  display: flex;
+  align-items: center;
+  padding-top: 10px;
+  padding-bottom: 60px;
+}
+
+.sponsorLogoContainer {
+  min-width: 250px;
+  max-width: 300px;
+  padding: 10px 20px;
+  
+}
+
+.sponsorLogo {
+  width: 100%;
+  transition: all 0.2s ease-in-out;
+}
+
+.sponsorLogo:hover{
+  cursor: pointer;
+  box-shadow: 0px 0px 30px rgb(167, 252, 238);
+}
+
+.sponsorDescription {
+  font-family: "Fraunces", "Vazir";
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 20px;
+  color: #333333;
+}
+
+@media screen and (max-width: 1040px) {
+  .sponsorsPageContainer {
+    padding-left: 5vw;
+    padding-right: 5vw;
+  }
+  .sponsorCard {
+    flex-direction: column;
+  }
+}

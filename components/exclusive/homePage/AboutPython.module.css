@@ -1,0 +1,19 @@
+.AboutPythonSectionContainer {
+  width: 100%;
+  background-color: #f1fafc;
+  direction: rtl;
+  padding-left: 20vw;
+  padding-right: 20vw;
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+
+@media screen and (max-width: 760px) {
+  .AboutPythonSectionContainer {
+    padding-left: 5vw;
+    padding-right: 5vw;
+  }
+  .underLineImage {
+    width: 200px;
+  }
+}

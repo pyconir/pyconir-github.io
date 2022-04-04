@@ -1,0 +1,115 @@
+.keySpeakersSectionContainer {
+  width: 100%;
+  min-height: 100vh;
+  background-color: #3f7c5e;
+  /* background-image: linear-gradient(180deg,#3f7c5e 40%,#f1fafc); */
+  direction: rtl;
+  padding-left: 15vw;
+  padding-right: 15vw;
+  padding-top: 40px;
+}
+.keySpeakersContainer {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 100%;
+  padding-bottom: 50px;
+}
+
+.keySpeakersSectionHeader{
+  color: white;
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+
+
+.keySpeakerCardContainer {
+  background-color: #3f7c5e;
+  border-radius: 30px;
+  box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.4);
+  padding: 40px 30px;
+  width: 20%;
+  min-width: 400px;
+  transition: all 0.2s ease-in-out;
+  margin-bottom: 40px;
+}
+
+.keySpeakerCardContainer:hover {
+  box-shadow: 0px 0px 8px rgba(255, 255, 255, 1);
+  cursor: pointer;
+}
+
+.keySpeakerImageContainer {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.keySpeakerImage {
+  width: 100%;
+  border-radius: 30px;
+  box-shadow: 0px 0px 20px white;
+}
+
+.keySpeakerName {
+  font-family: "Fraunces", "Vazir";
+  font-weight: 700;
+  font-size: 25px;
+  color: #ffffff;
+  letter-spacing: 1px;
+  margin-bottom: 20px;
+  margin-top: 35px;
+}
+
+.keySpeakerTitle {
+  font-family: "Fraunces", "Vazir";
+  font-weight: 500;
+  font-size: 18px;
+  color: #ffffff;
+  letter-spacing: 1px;
+  margin-bottom: 15px;
+}
+
+.keySpeakerAboutLeftBorder {
+  font-family: "Fraunces", "Vazir";
+  font-weight: 300;
+  font-size: 16px;
+  color: #ffffff;
+  margin-bottom: 25px;
+  border-left: solid 2px white;
+  padding-left: 8px;
+}
+
+.keySpeakerAboutRightBorder {
+  font-family: "Fraunces", "Vazir";
+  font-weight: 300;
+  font-size: 16px;
+  color: #ffffff;
+  margin-bottom: 25px;
+  border-right: solid 2px white;
+  padding-right: 8px;
+}
+
+.keySpeakerTalkTitle {
+  text-align: center;
+  font-family: "Fraunces", "Vazir";
+  font-weight: 400;
+  font-size: 18px;
+  color: #ffffff;
+  letter-spacing: 1px;
+  margin-bottom: 10px;
+  border: solid 2px white;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+@media all and (max-width: 760px) {
+  .keySpeakersSectionContainer {
+    padding-left: 5vw;
+    padding-right: 5vw;
+  }
+  .underLineImage {
+    width: 200px;
+  }
+}

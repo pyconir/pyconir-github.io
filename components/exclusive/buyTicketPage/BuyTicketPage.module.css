@@ -1,0 +1,27 @@
+.buyTicketPageContainer {
+  width: 100%;
+  min-height: 100vh;
+  background-color: #f1fafc;
+  direction: rtl;
+  padding-left: 20vw;
+  padding-right: 20vw;
+  padding-top: 100px;
+  padding-bottom: 13vh;
+}
+
+.links {
+  color: inherit;
+  transition: all 0.15s ease-in-out;
+}
+
+.links:hover {
+  color: rgb(88, 216, 184);
+  cursor: pointer;
+}
+
+@media screen and (max-width: 760px) {
+  .buyTicketPageContainer {
+    padding-left: 5vw;
+    padding-right: 5vw;
+  }
+}

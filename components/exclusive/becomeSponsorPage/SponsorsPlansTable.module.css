@@ -1,0 +1,50 @@
+.plansTableContainer {
+  direction: rtl;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.table {
+  font-family: "Fraunces", "Vazir";
+  font-size: 18px;
+  color: #4d4d4d;
+  border-radius: 15px;
+  border-collapse: collapse;
+  overflow: hidden;
+}
+
+.tableLightRows {
+  background-color: rgb(240, 250, 252);
+}
+
+.tableDarkRows {
+  background-color: rgb(233, 247, 246);
+  border-collapse: collapse;
+}
+
+.tableHeaders {
+}
+
+.tableFirstColumn {
+  font-size: 17px;
+  padding: 15px;
+}
+
+.tableItems {
+  font-size: 17px;
+  padding: 15px;
+  text-align: center;
+}
+
+.marks {
+  width: 25px;
+}
+
+.exmark {
+  width: 20px;
+}
+
+.middle {
+  text-align: center;
+}

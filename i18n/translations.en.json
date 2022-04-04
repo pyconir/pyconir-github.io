@@ -1,0 +1,1036 @@
+{
+  "i18n": {
+    "navbar": {
+      "items": {
+        "home": { "head": "Home", "item1": "", "item2": "", "item3": "" },
+        "about": {
+          "head": "About",
+          "item1": "About PyconIr",
+          "item2": "Code of Conduct",
+          "item3": "Organizers",
+          "item4": "Call for Logo"
+        },
+        "registration": {
+          "head": "Registration",
+          "item1": "Buy Ticket",
+          "item2": "Donate",
+          "item3": "Job Opportunities",
+          "item4": "Startup Row"
+        },
+        "sponsor": {
+          "head": "Sponsor",
+          "item1": "Our Sponsors",
+          "item2": "Be a Sponsor",
+          "item3": ""
+        },
+        "schedule": {
+          "head": "Program",
+          "item1": "Schedule",
+          "item2": "Speakers",
+          "item3": ""
+        },
+        "setup": { "head": "Setup", "item1": "", "item2": "", "item3": "" },
+        "become speaker": {
+          "head": "Speak in PyCon",
+          "item1": "",
+          "item2": "",
+          "item3": ""
+        }
+      },
+      "buttons": {
+        "buy-donate": "Buy Ticket / Donate"
+      }
+    },
+    "footer": {
+      "items": {
+        "footerItem1": "About PyCon",
+        "footerItem2": "Code of conduct",
+        "footerEmailcontact": "Contact PyCon Iran by : ",
+        "footerEmail": "team@ir.pycon.org"
+      }
+    },
+    "pages": {
+      "home": {
+        "description": "PyCon Iran is a gathering for the community using and developing the open-source Python programming language. PyCon Iran is dedicated to advance its mission of growing the Iranian community of Python programmers.",
+        "callPapers": {
+          "t1": "",
+          "p1": "Call for Papers",
+          "p2": "Buy Ticket"
+        },
+        "events": {
+          "t1": "Conference News",
+          "date1": "December 11 ",
+          "date2": "December 10 ",
+          "date3": "November 17 ",
+          "date4": "November 16 ",
+          "date5": "January 9 ",
+          "date6": "January 11 ",
+          "date7": "February 20 ",
+          "date8": "March 1 ",
+          "date9": "March 27 ",
+          "news1": "PyCon Iran Conference supports start-ups",
+          "news2": "Discord server launched. Some parts of the conference are organized inside Discord. Please join the server",
+          "news3": "The call for proposals is open and you can send your proposals until January 5",
+          "news4": "The PyCon Iran Conference will be held from January 19 to January 21. You can register now",
+          "news5": "The date of PyCon conference was changed. Iran PyCon will be held from February 16 to February 18",
+          "news6": "The call for proposals extended to February 4",
+          "news7": "The PyConIran 1400 conference was held on 16-17 February. Thank you for your support and ... hope to see you next year",
+          "news8": "Conference prizes were awarded",
+          "news9": "You can watch all the videos of the PyCon Iran 1400 conference and workshop through the playlist prepared on the conference YouTube channel."
+        },
+        "landing": {
+          "t1": "",
+          "p1": ""
+        },
+        "speakers": {
+          "t1": "Speakers",
+          "t1-1": "completing",
+          "t2": "Keynote Speakers",
+          "p1": " ",
+          "speakers": {
+            "speaker1": {
+              "name": "Sepand Haghighi",
+              "title": "Master's degree in Computer Engineering from Sharif University of Technology",
+              "about": "Open source programmer, developer of art and PyCM libraries.",
+              "talkTitle": "Title: art library in 5 minutes!"
+            },
+            "speaker2": {
+              "name": "Yashar Shahinzadeh",
+              "title": "researcher and application layer bug hunter",
+              "about": " ",
+              "talkTitle": "Title: A Security vulnerability in the Django framework"
+            },
+            "speaker3": {
+              "name": "Amir Mohammad Safari",
+              "title": "pupil and application layer bug hunter",
+              "about": " ",
+              "talkTitle": "Title: A Security vulnerability in the Django framework"
+            },
+            "speaker4": {
+              "name": "Alireza Zolanvari",
+              "title": "PhD student in data science from the University of Groningen",
+              "about": "PyCM Library Developer",
+              "talkTitle": "Title: Post-processing of machine learning algorithms in Python"
+            },
+            "speaker5": {
+              "name": "Sadra Sabouri",
+              "title": "BSc student in Electrical Engineering and Computer Science, Sharif University of Technology",
+              "about": "Python Open Source Developer",
+              "talkTitle": "Title: Samila, Generative Art"
+            },
+            "speaker6": {
+              "name": "Sebastiaan Zeeff",
+              "title": "Software Engineer for the Ordina Pythoneers and a Fellow of the Python Software Foundation",
+              "about": "In 2021, Sebastiaan gave talks at various conferences, including PyCon, EuroPython, FOSDEM, PyCon Indonesia, Pyjamas, and PyGrunn. He is also owner of Python Discord server.",
+              "talkTitle": "Title: Introducing Asynchronous SQLAlchemy"
+            },
+            "speaker7": {
+              "name": "Soroush Mousapour",
+              "title": "CTO of Kayoosh academy",
+              "about": "Active in software development, analysis and development of various information security and reverse engineering tools with different programming languages.",
+              "talkTitle": "Title: Deep learning in practice"
+            },
+            "speaker8": {
+              "name": "Ahmad Fanaei",
+              "title": "Manager of Backend and Data team at Torob",
+              "about": "He studied computer science at Sharif University of Technology. Ahmed was hired by Torob Company in 2016 as a software engineer and is currently the Torob’s manager of Backend and Data team.",
+              "talkTitle": "Title: Performance improvement strategies for PostgreSQL database in Django"
+            },
+            "speaker9": {
+              "name": "Hasan Noori",
+              "title": "CTO and co-founder of Formaloo",
+              "about": "Since 2016, as the Chief Technology Officer at Idearun Studio Startup, he has worked with many startup teams. Since starting Formaloo, as chief technology officer and software architect, he is engaged in the rapid advancement of a growing product.",
+              "talkTitle": "Title: Please stay away from microservices!"
+            },
+            "speaker10": {
+              "name": "David Tischler",
+              "title": "Developer Advocate at Balena",
+              "about": "David is a Developer Advocate at balena, where he helps show IoT Developers how to easily build and manage fleets of connected devices.",
+              "talkTitle": "Title: Scaling Python Apps at the Edge"
+            },
+            "speaker11": {
+              "name": "Gajendra Deshpande",
+              "title": "Assistant Professor, CSE at KLS.GIT",
+              "about": "Gajendra is a well known speaker with a rich record, including talks at well known python conferences, such as PyData Global, EuroPython. He uses Python to develop prototypes in the field of Cyber Security.",
+              "talkTitle": "Title: Security considerations in Python Packaging"
+            },
+            "speaker12": {
+              "name": "Parul Pandey",
+              "title": "Machine Learning Engineer at Weight & Biases",
+              "about": "Parul is a Machine Learning Engineer at Weight & Biases. Prior to that, she was a Data Scientist at H2O.ai, where she combines data science and developer advocacy in her work.",
+              "talkTitle": "Title: An effort towards understanding our model's predictions"
+            },
+            "speaker13": {
+              "name": "S Anand",
+              "title": "Co-Founder of Gramener",
+              "about": "Anand is a co-founder of Gramener, a data science company. He leads a team that tells visual stories from data. He is recognized as one of India’s top 10 scientists, and is a regular TEDx speaker.",
+              "talkTitle": "Title: Programming Minecraft with Websockets"
+            },
+            "speaker14": {
+              "name": "Shayegan Hooshyari",
+              "title": "Data Engineer at DataChef",
+              "about": "Shayegan is a data engineer at DataChef and an open-source contributor. He currently focuses on building data platforms for companies on AWS.",
+              "talkTitle": "Title: Step by step: code against code, or how to guarantee it actually works?!"
+            },
+            "speaker15": {
+              "name": "Mohammad Hassanzadeh",
+              "title": "Enterprise Solutions Unit Manager of Artarad",
+              "about": "Mohammad is the enterprise solutions unit manager of Artarad",
+              "talkTitle": "Title: Introduction of Odoo software"
+            },
+            "speaker16": {
+              "name": "Richard Blythman",
+              "title": "Algovera Founder",
+              "about": "Richard is a machine learning engineer with a research background, and experience in Big Tech and startups.",
+              "talkTitle": "Title: A community of data scientists making it easier to build decentralized AI apps in Web3"
+            },
+            "speaker17": {
+              "name": "Padmaja Bhagwat",
+              "title": "Data Scientist at Glance",
+              "about": " ",
+              "talkTitle": "Title: Churn Analysis: Let's act before it's too late"
+            },
+            "speaker18": {
+              "name": "Pouya Malekinejad",
+              "title": "Software Developer at Odoo S.A",
+              "about": " ",
+              "talkTitle": "Title: Odoo, open source platform of business!"
+            },
+            "speaker19": {
+              "name": "Xiaojian Wang",
+              "title": "Frontend and Machine Learning Engineer at Alibaba-inc",
+              "about": " ",
+              "talkTitle": "Title: How We Build AI Libraries for Front-end Developers and Use AI in Front-end Area"
+            },
+            "speaker20": {
+              "name": "Rohollah Alamalhoda",
+              "title": "Software Expert",
+              "about": " ",
+              "talkTitle": "Title: Graphene in Django"
+            },
+            "keySpeaker1": {
+              "name": "Trent McConaghy",
+              "title": "Co-Founder of Ocean Protocol",
+              "about": "He co-founded Ocean Protocol, building decentralized tools to level the playing field for AI and data. He has worked on AI since the mid 90s, Python since the early 2000s, and blockchain since 2013.",
+              "talkTitle": "Title: Smart contract development with TokenSPICE & Brownie"
+            },
+            "keySpeaker2": {
+              "name": "Thierry Carrez",
+              "title": "The Vice-President of Engineering at the Open Infrastructure Foundation",
+              "about": "He is the Vice-President of Engineering at the Open Infrastructure Foundation. A systems engineer by trade, he was involved in the inception of the OpenStack project, and still contributes to its governance and release management.",
+              "talkTitle": "Title: A Python-powered open source cloud: history and future of OpenStack"
+            }
+          }
+        },
+        "sponsors": {
+          "t1": "Sponsors",
+          "p1": ""
+        },
+        "aboutPython": {
+          "t1": "Python for Everyone",
+          "p1": "One of the reasons Python is the friendliest and one of the easiest to learn programming languages, is the way people have contributed ideas to improve it. It can be done via the Python Enhancement Proposals or PEP. The most well-known ones are PEP 20 –The Zen of Python– and PEP 8 – Style Guide for Python Code.",
+          "p2": "Long-time Pythoneer Tim Peters penned down the BDFL’s [Benevolent Dictator For Life] guiding principles for Python’s design into 20 aphorisms, only 19 of which have been written down:",
+          "p3": "Beautiful is better than ugly.",
+          "p4": "Explicit is better than implicit.",
+          "p5": "Simple is better than complex.",
+          "p6": "Complex is better than complicated.",
+          "p7": "Flat is better than nested.",
+          "p8": "Sparse is better than dense.",
+          "p9": "Readability counts.",
+          "p10": "Special cases aren't special enough to break the rules.",
+          "p11": "Although practicality beats purity.",
+          "p12": "Errors should never pass silently.",
+          "p13": "Unless explicitly silenced.",
+          "p14": "In the face of ambiguity, refuse the temptation to guess.",
+          "p15": "There should be one-- and preferably only one --obvious way to do it.",
+          "p16": "Although that way may not be obvious at first unless you're Dutch.",
+          "p17": "Now is better than never.",
+          "p18": "Although never is often better than *right* now.",
+          "p19": "If the implementation is hard to explain, it's a bad idea.",
+          "p20": "If the implementation is easy to explain, it may be a good idea.",
+          "p21": "Namespaces are one honking great idea -- let's do more of those!"
+        }
+      },
+      "about": {
+        "description": "",
+        "t1": "About PyCon Iran",
+        "p1": "The year is half over, and most of it has passed in a blink of an eye. We have experienced many things together, fighting COVID-19 together, cheering for the athletes in the Tokyo Olympics and Wrestling World Cup, working hard for your future, and sharing your achievements with your family happily together.",
+        "p2": "In the year that winter is coming, you must have a lot of gains, and you must also have a lot of questions. You must want to have an opportunity for you and like-minded friends in the community to get together and share your experiences with each other.",
+        "p3": "So, PyCon Iran is here! We will bring you a wonderful online conference this year, let’s enjoy the joy and happiness that Python brings to us.",
+        "p4": "PyCon Iran is a gathering for the community using and developing the open-source Python programming language. PyCon Iran is dedicated to advance its mission of growing the Iranian community of Python programmers.",
+        "p5": "There is an old saying that “a conference is not a matter of one person, but a group of people,” so here we welcome everyone who loves the Python community to join us, participate in our work, and let’s make this year’s conference together a Dream Conference! Yes, we need you!",
+        "p6": "PyCon Iran is a diverse conference dedicated to providing an effective experience to everyone. Help us ensure this."
+      },
+      "aid": {
+        "description": "",
+        "t1": "Support Conference",
+        "button": "Donate",
+        "p1": " ",
+        "p2": " is one of the most prestigious international conferences in the field of programming. The conference aims to bring together programmers using the Python programming language around a common theme, Python, annually in many countries.",
+        "p3": "We are glad that in our country, Iran, we have succeeded in obtaining the relevant permits from the organizing committee of the conference to hold the Iranian part of this conference, and more than that, we are happy to hold a Pythonic gathering with your presence.",
+        "p4": "You can help us to continue the conference at the best possible level by pressing the support button below."
+      },
+      "becomeSpeaker": {
+        "description": "",
+        "t1": "Speak in PyCon ",
+        "t2": "Conference Structure",
+        "t3": "Guidelines for Proposal Submission",
+        "t4": "Talks",
+        "t5": "Tutorials / Workshops",
+        "t6": "Posters ",
+        "t7": "Lightning Talks",
+        "t8": "Sprints",
+        "t9": "Topics and Advice",
+        "t10": "Technical Requirements for Online Presentation",
+        "t11": "Recording Release Agreement",
+        "t12": "Where to Submit Your Proposal",
+        "p1": "We are very excited to be gathering online for PyCon Iran! PyCon Iran is seeking speakers of all experience levels and backgrounds to contribute to our conference program! If you use Python professionally, as a hobbyist, or are just excited about Python or programming and open source communities, we’d love to hear from you. All speakers will be presenting their topics online this year.",
+        "p2": "Everyone is encouraged to submit a proposal, regardless of experience level. We're looking for proposals on every aspect of Python: programming from novice to advanced levels, applications and frameworks, or how you have been involved in introducing Python into your organization.",
+        "p3": "Please also forward this Call for Proposals to anyone that you feel may be interested.",
+        "p4": "This is the conference structure for the online PyCon Iran 2021 taking place from February 16 to February 18",
+        "p5": "Wednesday February 16: tutorials / workshops",
+        "p6": "Thursday February 17: keynotes, talks, lightning talks, poster session",
+        "p7": "Friday February 18: code sprints / hackathons",
+        "p8": "We will accept a broad range of presentations, from reports on academic and commercial projects to case studies. As long as the presentation is interesting and potentially useful to the Python community, it will be considered for inclusion in the program.",
+        "p9": "Can you show something new and useful? Can you show the attendees how to use a module? Explore a Python language feature? Package an application? If so, please consider submitting a talk.",
+        "p10": "There are multiple kinds of contributions that you can present at PyCon Iran; Before writing up a proposal, read the following descriptions of the five kinds of presentations at PyCon Iran — Talks, Tutorials / Workshops, Posters, Lightning Talks, and Sprints — and follow the individual guidelines for the proposal kind that best suits your topic.",
+        "p11": "These are standard “talks with slides”, allocated in slots of:",
+        "p12": "30 minutes",
+        "p13": "45 minutes",
+        "p14": "Most talks are 30 minutes long, but we do offer a limited number of 45-minute slots for important topics that promise to benefit from a more extensive treatment. Please choose a time slot you see most suitable to keep your presentation compact (so the audience can follow it without getting bored).",
+        "p15": "Hand-on, deep-dive into a subject with all details. Training attendees are encouraged to actively follow the training on their PCs/laptops. These sessions are approx. 3 hours long. As with the talks, we are looking for tutorials that can grow this community at any level. We aim for tutorials that will advance Python, advance this community, and shape the future.",
+        "p16": "Attention full-time trainers: Please bring your coursework to PyCon Iran. Educators can bring their show on the road, so show us what you have on the syllabus.",
+        "p17": "Posters are a graphical way to describe a project or a technology; posters will be online, can be read at any time by participants, and can be discussed with their authors during the poster session.",
+        "p18": "We are planning to collect all posters on a gallery page, together with PDF versions to read during the event.",
+        "p19": "A lightning talk (LT) is a short presentation which must not be longer than 5 minutes. You may talk about / present (almost) everything with certain boundaries:",
+        "p20": "no promotion for products of companies, no call for 'we are hiring' (but you may name your employer)",
+        "p21": "conference announcements are limited to one minute only",
+        "p22": "one LT per person per conference policy: everyone who has not given a LT at this year's conference, yet, is ahead of you in the queue",
+        "p23": "keep it short, the shorter the presentations, the more people can give a talk",
+        "p24": "For submitting sprints, please check our sprints page for more details.",
+        "p25": "Suggested topics for PyCon Iran presentations include, but are not limited to:",
+        "p26": "Core Python - Language Features, Python Implementations, Extending Python, Standard Library and extensions, and language internals.",
+        "p27": "Data Science, Machine Learning and Artificial Intelligence (AI)",
+        "p28": "Programming Tools - CI/CD, Containers, Orchestration, Logging and Monitoring.",
+        "p29": "Game Design and 3D Modelling - Python in developing games, 3-D modelling and animation, Game Programming.",
+        "p30": "Scientific Computing - Python usage in scientific computing and research, GIS, Geophysics, Mathematics, Data-visualization and Simulations, Python powered data-acquisition systems etc. (core libraries e.g. Numpy, Scipy, and Matplotlib)",
+        "p31": "Decentralized and Distributed Technology - Blockchain, Tangle or any DLT protocol or infrastructure related product, cloud.",
+        "p32": "Desktop Applications - Qt, GTK+, Tkinter, Gnome, KDE, Accessibility.",
+        "p33": "Python 2 to 3 migration",
+        "p34": "Databases",
+        "p35": "Documentation",
+        "p36": "Frameworks",
+        "p37": "Hardware (Sensors, RaspberryPi, Gadgets, …)",
+        "p38": "Network Programming",
+        "p39": "Open Source Python projects",
+        "p40": "Packaging",
+        "p41": "Project Best Practices",
+        "p42": "Embedding and Extending",
+        "p43": "Education, Science and Math",
+        "p44": "Community",
+        "p45": "Ethics (related to Programming)",
+        "p46": "Web-based Systems",
+        "p47": "Use Cases",
+        "p48": "API",
+        "p49": "Microservices and Serverless",
+        "p50": "GUI Programming",
+        "p51": "Testing",
+        "p52": "Finance and time series – Quantopian, ...",
+        "p53": "Failures and Mistakes",
+        "p54": "Alternative Python implementations: e.g. Jython, IronPython, PyPy, and Stackless",
+        "p55": "Presentation goals are usually some of the following:",
+        "p56": "Introduce the audience to a new topic",
+        "p57": "Introduce the audience to new developments on a well-known topic",
+        "p58": "Show the audience real-world usage scenarios for a specific topic (case study)",
+        "p59": "Dig into advanced and relatively unknown details on a topic",
+        "p60": "Compare different solutions available on the market for a topic",
+        "p61": "Give a chance to less mainstream topics",
+        "p62": "Since the event will be run online, we ask speakers to make sure they have the following equipment ready on the conference days:",
+        "p63": "PC / notebook",
+        "p64": "PC / notebook",
+        "p65": "Headset",
+        "p66": "Webcam",
+        "p67": "Because we’re using networks, we’d also like to ask for a few setups:",
+        "p68": "Send in a PDF with the talk slides, if possible",
+        "p69": "Chromium-based browser to use as a fallback streaming solution",
+        "p70": "You must pre-record the talk and then answer questions in the live session.",
+        "p71": "We recommend using Zoom for recording. It will be okay if you have other tools that can achieve the similar effect.",
+        "p72": "Please then upload the video to a web drive and send the link to us.",
+        "p73": "Part of PyCon Iran’s purpose is to generate materials to help with Python education all over the world, so we intend to record all PyCon Iran presentations and release the recordings on the web.",
+        "p74": "We also ask all speakers to:",
+        "p75": "accept the video recording of their presentation",
+        "p76": "upload their talk materials to the PyCon Iran website",
+        "p77": "allow the PyCon Iran to make the talk recordings and uploaded materials available under a CC BY-NC-SA license",
+        "p78": "To simplify the organization, we ask all speakers to accept the video recording and publishing of their session. All talks will be recorded.Talk slides will be made available on the PyCon Iran website. Talk video recordings will be uploaded to the PyCon Iran YouTube channel and other platforms.",
+        "p79": "As with all proposal types, we are really looking to you to talk about what’s going on in this community and tell everyone where it is going. If you are doing something awesome, share it!",
+        "p80": "Due to the competitive selection process, we encourage prospective speakers to submit their proposals as early as possible. For further questions and finally submitting your proposal, feel free to contact us via email, team@ir.pycon.org until Friday February 4."
+      },
+      "becomeSponsor": {
+        "description": "",
+        "t1": "Become a Sponsor",
+        "p1": "The PyconIr conference offers the following benefits in return for sponsor support:",
+        "p2": "Placing the company name or brand on the front page of the conference",
+        "p3": "Listed on the official schedule; Presenter pass not included",
+        "p4": "One full-color slide will be displayed in rotation in general session & all breakout rooms in between talks.",
+        "table": {
+          "r1c1": "Sponsorship Packages:",
+          "r1c2": "Diamond",
+          "r1c3": "Gold",
+          "r1c4": "Silver",
+          "r1c5": "Bronze",
+          "r2c1": "Logo on PyCon Iran website",
+          "r3c1": "Blurb on PyCon Iran website",
+          "r4c1": "Logo in the PyCon Iran digital program guide",
+          "r5c1": "Logo on screens during breaks",
+          "r6c1": "Social Media promotion",
+          "r7c1": "Job postings on the website",
+          "r8c1": "Promo URL on the Virtual Swag page",
+          "r9c1": "Blog posts highlighting the sponsor",
+          "r10c1": "Promo lightning video (up to 5 min)",
+          "r11c1": "Conference recordings featuring logo",
+          "r12c1": "Full-color slide",
+          "r13c1": "Advertisement in program guide",
+          "r13c2": "Double page",
+          "r13c3": "Full page",
+          "r13c4": "Half page",
+          "r13c5": "Half page",
+          "r14c1": "Sponsored talk (30min)",
+          "r15c1": "Sponsored workshop slot (1h)",
+          "r16c1": "Sponsored poster",
+          "r17c1": "Full conference attendee passes"
+        },
+        "button": "Email us to get started"
+      },
+      "buyTicket": {
+        "description": "",
+        "t1": "Buy Ticket",
+        "t2": "Types of Tickets",
+        "p1": "For this year, one type of ticket is considered, which includes the use of all conference facilities. Therefore, by purchasing this ticket, access to all online offerings and workshops will be provided.",
+        "p2": "The cost of the ticket is 99 thousand tomans for each person",
+        "p3": "To register and prepare the ticket, click on the button below to be referred to the Evand website to purchase a ticket.",
+        "p4": "In case of any problems or questions in the ticket preparation process, please contact us through the Discord Conference channel or the conference email:",
+        "p5": "team@ir.pycon.org",
+        "p6": "Discord",
+        "button": "Buy Ticket"
+      },
+      "callForLogo": {
+        "description": "",
+        "t1": "Call for Logo Proposal",
+        "t2": "Requirements",
+        "t3": "Process",
+        "p1": "Must be licensed CC BY-NC-SA",
+        "p2": "Recommended to include some reference to the Python logo (2 snakes)",
+        "p3": "Should work in small and large scale",
+        "p4": "It must be in SVG format",
+        "p5": "Think about how it'll be used on a screen-printed t-shirt. It should be able to be reduced to 1 or 2 colors, without fine detail.",
+        "p6": "Send to us by email (team@ir.pycon.org)",
+        "p7": "Submit proposals by Friday February 4, 2022"
+      },
+      "callForPapers": {
+        "description": "",
+        "t1": "Call for Papers",
+        "p1": "Coming Soon ..."
+      },
+      "codeOfConduct": {
+        "description": "",
+        "t1": "Code of Conduct",
+        "t2": "Do:",
+        "t3": "Don't:",
+        "t4": "OUR STANDARDS",
+        "t5": "ONLINE EVENTS",
+        "t6": "CONSEQUENCES",
+        "t7": "ATTRIBUTIONS ",
+        "t8": "LICENSE",
+        "t9": "CONTACT INFORMATION",
+        "p1": "PyCon Iran is a community conference intended for networking and collaboration in the developer community.",
+        "p2": "We value the participation of each member and believe in inclusivity, kindness, and a positive community for all. ",
+        "p3": "We expect all staff, attendees, speakers, exhibitors, organizers, sponsors and volunteers of PyCon Iran to conform to a professional and respectful manner at all times. This means:",
+        "p4": "Be open to collaboration",
+        "p5": "Use welcoming and positive language",
+        "p6": "Respect others views  and experiences whether they do/don’t align with yours",
+        "p7": "Show empathy towards other community members",
+        "p8": "Be respectful of others in the public & private media",
+        "p9": "Fret and fume",
+        "p10": "Make personal or political attacks",
+        "p11": "Harass another person, whether publicly or privately in any form",
+        "p12": "Use sexualized language or make unwelcome sexual/nonsexual advances",
+        "p13": "Use another person's property whether physical or electronic, without their explicit permission",
+        "p14": "Do any other actions that is inappropriate for a professional audience  including people of many different backgrounds",
+        "p15": "Every member of our community has the right to have their identity respected. PyCon Iran is dedicated to providing a positive experience for everyone, regardless of age, gender identity and expression, sexual orientation, disability, physical appearance, body size, ethnicity, nationality, race, or religion, education, location, technology choices, employment or socio-economic status.",
+        "p16": "The Code of Conduct applies to interactions with official event accounts on social media spaces and phone applications, including:",
+        "p17": "comments made on official conference phone apps",
+        "p18": "comments made on event video hosting services",
+        "p19": "comments made on the official event hashtag or panel hashtags",
+        "p20": "Event organizers will enforce this code throughout the event.",
+        "p21": "If a participant engages in harassing behavior, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from any private, online conference platforms, the community and community events with no refund of event tickets. Thank you for helping make this a welcoming, friendly community for everyone.",
+        "p22": "We expect participants to follow these rules on all conference platforms.",
+        "p23": "Language was incorporated from the following Codes of Conduct:",
+        "p24": "PSF Code of Conduct by Python Software Foundation which is under a Creative Commons Attribution 3.0 Unported License.",
+        "p25": "Next.js Conf Code of Conduct",
+        "p26": "This Code of Conduct is licensed under a Creative Commons Attribution 3.0 Unported License.",
+        "p27": "If you believe that someone is violating the code of conduct, or have any other concerns, please contact a member of the event stated below, immediately.",
+        "p28": "Bardia Habibi : pyconforall@protonmail.com"
+      },
+      "index": {},
+      "jobOpportunities": {
+        "description": "",
+        "page": {
+          "t1": "Job Opportunities",
+          "t2": "Startups Jobs",
+          "button": "Submit a job",
+          "p1": "It is possible to send job opportunities to be displayed in the job fair."
+        },
+        "jobs": {
+          "job1": {
+            "description": {
+              "p1": "Opportunity to join the DataChef team"
+            },
+            "payment": {
+              "p1": "Click for more details"
+            }
+          },
+          "job2": {
+            "description": {
+              "p1": "Opportunity to join Pythonanywhere"
+            },
+            "payment": {
+              "p1": "Click for more details"
+            }
+          },
+          "job3": {
+            "description": {
+              "p1": "Opportunity to join Algovera"
+            },
+            "payment": {
+              "p1": "Click for more details"
+            }
+          },
+          "job4": {
+            "description": {
+              "p1": "Opportunity to join Greenweb"
+            },
+            "payment": {
+              "p1": "Click for more details"
+            }
+          }
+        }
+      },
+      "organizers": {
+        "description": "",
+        "t1": "Organizers",
+        "p1": "Coming Soon ..."
+      },
+      "presentWorkshop": {
+        "description": "",
+        "t1": "Present a Workshop",
+        "p1": "Coming Soon ..."
+      },
+      "schedule": {
+        "description": "",
+        "t1": "Schedule",
+        "p0": "Not fixed yet",
+        "p1": "February 16",
+        "p2": "February 17",
+        "talks": {
+          "talk1": {
+            "title": "Smart contract development with TokenSPICE & Brownie",
+            "speaker": "Trent McConaghy",
+            "time": " ",
+            "page-url": "keySpeaker1"
+          },
+          "talk2": {
+            "title": "A Python-powered open source cloud: history and future of OpenStack",
+            "speaker": "Thierry Carrez",
+            "time": " ",
+            "page-url": "keySpeaker2"
+          },
+          "talk3": {
+            "title": "Introducing Asynchronous SQLAlchemy",
+            "speaker": "Sebastiaan Zeeff",
+            "time": "13:45-14:15 UTC",
+            "page-url": "speaker6"
+          },
+          "talk4": {
+            "title": "Performance improvement strategies for PostgreSQL database in Django",
+            "speaker": "Ahmad Fanaei",
+            "time": " ",
+            "page-url": "speaker8"
+          },
+          "talk5": {
+            "title": "An effort towards understanding our model's predictions",
+            "speaker": "Parul Pandey",
+            "time": "13-13:30 UTC",
+            "page-url": "speaker12"
+          },
+          "talk6": {
+            "title": "Programming Minecraft with Websockets",
+            "speaker": "S Anand",
+            "time": " ",
+            "page-url": "speaker13"
+          },
+          "talk7": {
+            "title": "Please stay away from microservices!",
+            "speaker": "Hasan Noori",
+            "time": " ",
+            "page-url": "speaker9"
+          },
+          "talk8": {
+            "title": "Security considerations in Python Packaging",
+            "speaker": "Gajendra Deshpande",
+            "time": " ",
+            "page-url": "speaker11"
+          },
+          "talk9": {
+            "title": "art library in 5 minutes!",
+            "speaker": "Sepand Haghighi",
+            "time": " ",
+            "page-url": "speaker1"
+          },
+          "talk10": {
+            "title": "A community of data scientists making it easier to build decentralized AI apps in Web3",
+            "speaker": "Richard Blythman",
+            "time": " ",
+            "page-url": "speaker16"
+          },
+          "talk11": {
+            "title": "A Security vulnerability in the Django framework",
+            "speaker": "Yashar Shahinzadeh & Amir Mohammad Safari",
+            "time": " ",
+            "page-url": "speaker2"
+          },
+          "talk12": {
+            "title": "Step by step: code against code, or how to guarantee it actually works?!",
+            "speaker": "Shayegan Hooshyari",
+            "time": " ",
+            "page-url": "speaker14"
+          },
+          "talk13": {
+            "title": "Introduction of Odoo software",
+            "speaker": "Mohammad Hassanzadeh",
+            "time": " ",
+            "page-url": "speaker15"
+          },
+          "talk14": {
+            "title": "Post-processing of machine learning algorithms in Python",
+            "speaker": "Alireza Zolanvari",
+            "time": " ",
+            "page-url": "speaker4"
+          },
+          "talk15": {
+            "title": "Samila, Generative Art",
+            "speaker": "Sadra Sabouri",
+            "time": " ",
+            "page-url": "speaker5"
+          },
+          "talk16": {
+            "title": "Churn Analysis: Let's act before it's too late",
+            "speaker": "Padmaja Bhagwat",
+            "time": " ",
+            "page-url": "speaker17"
+          },
+          "talk17": {
+            "title": "Odoo, open source platform of business!",
+            "speaker": "Pouya Malekinejad",
+            "time": " ",
+            "page-url": "speaker18"
+          },
+          "talk18": {
+            "title": "How We Build AI Libraries for Front-end Developers and Use AI in Front-end Area",
+            "speaker": "Xiaojian Wang",
+            "time": " ",
+            "page-url": "speaker19"
+          }
+        },
+        "workshops": {
+          "workshop1": {
+            "title": "Deep learning in practice",
+            "speaker": "Soroush Mousapour",
+            "time": "5:30-7 UTC",
+            "page-url": "speaker7"
+          },
+          "workshop2": {
+            "title": "Scaling Python Apps at the Edge",
+            "speaker": "David Tischler",
+            "time": "7:15-8:45 UTC",
+            "page-url": "speaker10"
+          },
+          "workshop3": {
+            "title": "Exploring Network Clusters in Python",
+            "speaker": "S Anand",
+            "time": "9:30-11 UTC",
+            "page-url": "speaker13"
+          },
+          "workshop4": {
+            "title": "Graphene in Django",
+            "speaker": "Rohollah Alamalhoda",
+            "time": "11:15-12:45 UTC",
+            "page-url": "speaker20"
+          }
+        }
+      },
+      "setup": {
+        "description": "",
+        "t1": "Setup",
+        "p1": "Coming Soon ..."
+      },
+      "speakers": {
+        "description": "",
+        "t1": "Speakers",
+        "speakers": {
+          "speaker1": {
+            "name": "Sepand Haghighi",
+            "title": "Master's degree in Computer Engineering from Sharif University of Technology",
+            "about": "Master's degree in Computer Engineering from Sharif University of Technology and Open source programmer, developer of art and PyCM libraries.",
+            "talkTitle": "Title: art library in 5 minutes!",
+            "type": "lightning talk",
+            "talkDetail": {
+              "p1": "ASCII Art is a type of graphic design that is produced using a computer and putting ASCII characters together. One of the applications of this method in the world of programming is to adorn programs including a command-line interface (CLI). The art library makes this possible in the Python programming language, and we'll cover that in this lightning talk."
+            },
+            "video-url": "https://www.youtube.com/watch?v=-D91UyyY738"
+          },
+          "speaker2": {
+            "name": "Yashar Shahinzadeh",
+            "title": "application layer bug hunter",
+            "about": "researcher and application layer bug hunter",
+            "talkTitle": "Title: A Security vulnerability in the Django framework",
+            "type": "45-minute talk",
+            "talkDetail": {
+              "p1": "The Django framework has a potential security vulnerability that becomes a dangerous one in certain circumstances. In this presentation, we will first define a series of concepts, then explain the Django security vulnerability, and finally show a live demo of the attack."
+            },
+            "video-url": "https://www.youtube.com/watch?v=xHWI4a3osWc"
+          },
+          "speaker3": {
+            "name": "Amir Mohammad Safari",
+            "title": "application layer bug hunter",
+            "about": "pupil and application layer bug hunter",
+            "talkTitle": "Title: A Security vulnerability in the Django framework",
+            "type": "45-minute talk",
+            "talkDetail": {
+              "p1": "The Django framework has a potential security vulnerability that becomes a dangerous one in certain circumstances. In this presentation, we will first define a series of concepts, then explain the Django security vulnerability, and finally show a live demo of the attack."
+            },
+            "video-url": "https://www.youtube.com/watch?v=xHWI4a3osWc"
+          },
+          "speaker4": {
+            "name": "Alireza Zolanvari",
+            "title": "PhD student in data science, University of Groningen",
+            "about": "PhD student in data science, University of Groningen and PyCM Library Developer",
+            "talkTitle": "Title: Post-processing of machine learning algorithms in Python",
+            "type": "30-minute talk",
+            "talkDetail": {
+              "p1": "One of the significant steps in machine learning is to evaluate the performance of the algorithm after achieving the results and outputs. To this end, many methods have been proposed, depending on the type of problem as well as the study data. The purpose of this presentation is to introduce and review strategies for evaluating the performance of machine learning algorithms and how to implement them in Python using the PyCM library."
+            },
+            "video-url": "https://www.youtube.com/watch?v=pPy-haNJKtc"
+          },
+          "speaker5": {
+            "name": "Sadra Sabouri",
+            "title": "BSc student at Sharif University of Technology",
+            "about": "BSc student in Electrical Engineering and Computer Science, Sharif University of Technology and Python Open Source Developer",
+            "talkTitle": "Title: Samila, Generative Art",
+            "type": "lightning talk",
+            "talkDetail": {
+              "p1": "Generative Art refers to an art work that is generated in whole or in part by an autonomous system. We will create these generative arts through the use of Python programming language and Samila Library."
+            },
+            "video-url": "https://www.youtube.com/watch?v=8CUzHlNCTO0"
+          },
+          "speaker6": {
+            "name": "Sebastiaan Zeeff",
+            "title": "Software Engineer for the Ordina Pythoneers and a Fellow of the Python Software Foundation",
+            "about": "Sebastiaan is a Software Engineer for the Ordina Pythoneers and a Fellow of the Python Software Foundation. As a Python enthusiast, he loves discussing the inner workings of the language and coaching others to become better developers. In 2021, Sebastiaan gave talks at various conferences, including PyCon, EuroPython, FOSDEM, PyCon Indonesia, Pyjamas, and PyGrunn. He is also active in the Python community, as an owner of Python Discord, an open-source contributor, and as a Python educator.",
+            "talkTitle": "Title: Introducing Asynchronous SQLAlchemy",
+            "type": "30-minute talk",
+            "talkDetail": {
+              "p1": "Driven by the immense popularity of asynchronous frameworks, such as FastAPI, asynchronous database support suddenly became a hot topic in the Python community. As talking to your database often forms a significant portion of the input and output of your application, it's important to do that asynchronously as well. With the release of version 1.4, SQLAlchemy added support for Asynchronous I/O for both its core and ORM features. This means that you can now use the popular SQL toolkit for Python in your asynchronous applications.",
+              "p2": "In my talk, I will introduce you to the newly added support for asyncio in SQLAlchemy. I will go over how easy it is to set up the new AsyncEngine, point you to some of the differences with synchronous SQLAlchemy, and show you some of the pitfalls to avoid. In addition, I will also show you how you can run your existing synchronous SQLAlchemy code asynchronously to help you transition to a fully asynchronous application. By the end of my talk, you should know enough to start your own asynchronous SQLAlchemy adventure."
+            },
+            "video-url": "https://www.youtube.com/watch?v=Y-GLbLdLstU"
+          },
+          "speaker7": {
+            "name": "Soroush Mousapour",
+            "title": "CTO of Kayoosh academy",
+            "about": "Active in software development, analysis and development of various information security and reverse engineering tools with different programming languages, strongly opposed to object-oriented programming (except when using Django framework), believes in test-driven development, interested in periodic optimization! Soroush thinks that when a program is written, the optimization of the program (speed and resource consumption) and its proper functioning is more important than the tools and language in which the program is written, OOP and inheritance generally complicate the program, and Tensorflow is better than Pytorch!",
+            "talkTitle": "Title: Deep learning in practice",
+            "type": "workshop",
+            "talkDetail": {
+              "p1": "Are you also interested in how deep learning empowers intelligent applications? How do self-drivig cars, virtual assistants, face recognition devices, and chat bots process complex information? Whether you are familiar with machine learning or just starting out, this workshop will help you understand deep learning.",
+              "p2": "In this workshop, we first investigate the relationship between machine learning, deep learning and artificial intelligence, and learn about the structure of the second version of Tensorflow. Next, we get to know the structure of neural networks and perceptrons, then we look at computer vision and get acquainted with convolutional neural networks, in the next step we go over text processing and use recursive neural networks, then we use GAN networks to create images. Finally, we examine the problem of implementing the model as a service and write various tests to review and implement it."
+            },
+            "video-url": "https://www.youtube.com/watch?v=9uBqc-5tGMg"
+          },
+          "speaker8": {
+            "name": "Ahmad Fanaei",
+            "title": "Manager of Backend and Data team at Torob",
+            "about": "He started programming in high school with C ++ language and two-dimensional football simulation. He studied computer science at Sharif University of Technology. During his B.Sc, he became interested in the development of web-based software, especially Django. In 2014, he started a virtual reality project with a number of his friends in Sharif University of Technology’s accelerator, which unfortunately failed for some reasons, but he also got acquainted with Torob startup. Ahmed was hired by Torob Company in 2016 as a software engineer and is currently the Torob’s manager of Backend and Data team.",
+            "talkTitle": "Title: Performance improvement strategies for PostgreSQL database in Django",
+            "type": "45-minute talk",
+            "talkDetail": {
+              "p1": "Which tools can be used to find database performance problems in the development and production cycle of a Django application?",
+              "ul1": {
+                "li1": "Use django_debug_toolbar during Local environment",
+                "li2": "Use assertNumQueries during Test environment",
+                "li3": "Use squawk in the Deployment environment",
+                "li4": "Use pg_stat_statment in the Production environment"
+              },
+              "p2": "What are the serious performance issues of Django applications?",
+              "ul2": {
+                "li1": "Lack of proper use of select_related and prefetch_related",
+                "li2": "Not restricting fields that must be returned from the database (the lack of only or values)",
+                "li3": "Executing freezing migrations, such as adding new indexes to large tables",
+                "li4": "Pagination",
+                "ul1": {
+                  "li1": "Django default pagination (limit - offset)",
+                  "li2": "Keyset pagination",
+                  "li3": "Keyset range pagination"
+                },
+                "li5": "Finding slow queries using pg_stat_statment and troubleshooting problems by checking the output of Explain command"
+              }
+            },
+            "video-url": "https://www.youtube.com/watch?v=PMbQDTVpOAc"
+          },
+          "speaker9": {
+            "name": "Hasan Noori",
+            "title": "CTO and co-founder of Formaloo",
+            "about": "Since 2016, as the Chief Technology Officer at Idearun Studio Startup, he has worked with many startup teams to develop their technical products and has been closely involved in the right and wrong methods of many novice startups to advance their technical products. Since starting Formaloo, as chief technology officer and software architect, he is engaged in the rapid advancement of a growing product. With a combination of technical and directorial background, he always strives to strike a balance between the technical ideals and the business facts of a startup.",
+            "talkTitle": "Title: Please stay away from microservices!",
+            "type": "30-minute talk",
+            "talkDetail": {
+              "p1": "In the world of technology, two things are relatively easy: following new trends, and rejecting new trends. But to do the right work in most cases, you have to choose a middle way. When and to what extent we should use new trends. To expand our services, we started a way that we could approach microservices step by step, but not in too big a step."
+            },
+            "video-url": "https://www.youtube.com/watch?v=Fp0HUWMu8A8"
+          },
+          "speaker10": {
+            "name": "David Tischler",
+            "title": "Developer Advocate at Balena",
+            "about": "David is a Developer Advocate at balena, where he helps show IoT Developers how to easily build and manage fleets of connected devices.  He spends time thinking about how technologies built for the cloud are now leaving the datacenter, and are instead being run at the Edge and on small IoT devices instead.  An Arm Innovator, obsessed with tiny computers and energy-efficient processing.",
+            "talkTitle": "Title: Scaling Python Apps at the Edge",
+            "type": "Workshop",
+            "talkDetail": {
+              "p1": "Python applications bring lots of flexibility and capability to IoT and Edge devices, but how do you deploy your Python code to devices that might be located across the country or across the world?  In this talk, we will demonstrate how to containerize your Python, then use balenaCloud to orchestrate pushing that container onto a device like a Raspberry Pi, no matter where it is located.  This same deployment method can be used across entire fleets of devices as well, saving developers’ time and effort when maintaining large fleets of IoT devices.  This talk will focus on constructing a small temperature sensor, but the concept presented can be replicated for any Python application.",
+              "p2": "No hardware is needed to attend the workshop, but if you would like to follow along and build the project at home, then a Raspberry Pi, SD Card, and BME280 temperature sensor will be necessary."
+            },
+            "video-url": "https://www.youtube.com/watch?v=JD7DGPCBN88"
+          },
+          "speaker11": {
+            "name": "Gajendra Deshpande",
+            "title": "Assistant Professor, CSE at KLS.GIT",
+            "about": "Gajendra uses Python extensively for teaching and research, and is a well known speaker with a rich record, including talks at well known python conferences, such as PyData Global, EuroPython, PyCon India, SciPy India, PyCon FR, and JuliaCon. Gajendra uses Python to develop prototypes in the field of Cyber Security, and he leads the PyData and the OWASP developers’ communities in Belagavi, India. Gajendra loves to mentor and to volunteer at Free and Open Source events.",
+            "talkTitle": "Title: Security considerations in Python Packaging",
+            "type": "30-minute talk",
+            "talkDetail": {
+              "p1": "Popular programming language index websites (TIOBE index) and developer surveys (Stack Overflow) place Python as one of the fastest-growing programming languages. However, this popularity also puts in the target range of attackers. The attackers perform malicious dependency attacks and use misconfiguration tools to reveal confidential information. Jukka Ruohonen, Kalle Hjerppe, and Kalle Rindell in their research paper “A Large-Scale Security-Oriented Static Analysis of Python Packages in PyPI” claimed that they scanned PyPI for security issues in Python packages and found the presence of at least one security issue in about 46% of the Python packages. In addition, security vulnerabilities can be present in the source code of the package. In this talk, we will address the security issues related to python packaging and possible solutions to make python packages secure. The talk begins with the importance of a secure package and vulnerabilities in the Python package index. Then, I will discuss Python packages such as Bandit for identifying common security issues in Python code and “safety” for dependency check. Next, I will discuss verifying and signing Python packages using GPG and semgrep static analyser. Finally, I will discuss general guidelines for secure coding practices in Python.",
+              "p2": "Outline:",
+              "ul1": {
+                "li1": "Importance of a secure package and vulnerabilities in python package index. (04 Minutes)",
+                "li2": "Bandit for identifying common security issues in Python code (06 Minutes)",
+                "li3": "Safety for dependency check (06 Minutes)",
+                "li4": "Verifying and signing PyPI and conda packages using GPG and Twine (04 Minutes)",
+                "li5": "semgrep static analyser (04 Minutes)",
+                "li6": "General guidelines for secure coding practices in Python (04 Minutes)",
+                "li7": "Summary and Questions (02 Minute)"
+              }
+            },
+            "video-url": "https://www.youtube.com/watch?v=3wPPc1aB_Ls"
+          },
+          "speaker12": {
+            "name": "Parul Pandey ",
+            "title": "Machine Learning Engineer at Weight & Biases",
+            "about": "Parul Pandey works as a Machine Learning Engineer at Weight & Biases. Prior to that, she was a Data Scientist at H2O.ai, where she combines data science and developer advocacy in her work. She is also a Kaggle Grandmaster in the notebooks category and was one of Linkedin’s Top Voice in the Software Development category in 2019. Parul has written multiple articles focused on Data Science and Software development for various publications and mentors, speaks, and delivers workshops on topics related to data science. Parul has a background in Electrical Engineering and was previously associated with Tata Power India.",
+            "talkTitle": "Title: An effort towards understanding our model's predictions",
+            "type": "30-minute talk",
+            "talkDetail": {
+              "p1": "Machine learning models are making predictions that affect people’s lives, so ensuring that they’re fair and unbiased must be an industry imperative. One way to ensure fairness is to discover a model’s mispredictions and analyze and fix the underlying causes. In this talk, we'll look at ways and try to understand the decisions of these models to ensure responsible machine learning. Additionally, we'll examine the vulnerabilities and shortcomings of these methods and discuss the road ahead. After all, it is not only enough to get accurate predictions but predictions that are fair and not discriminating."
+            },
+            "video-url": "https://www.youtube.com/watch?v=MyNpny5rD9I"
+          },
+          "speaker13": {
+            "name": "S Anand",
+            "title": "Co-Founder of Gramener",
+            "about": "Anand is a co-founder of Gramener, a data science company. He leads a team that tells visual stories from data. He is recognized as one of India’s top 10 scientists, and is a regular TEDx speaker. Anand is a gold medallist from IIM Bangalore and an alumnus of IIT Madras, London Business School, IBM, Infosys Consulting, Lehman Brothers, and BCG. More importantly, he has hand-transcribed every Calvin & Hobbes strip ever, is addicted to Minecraft (thanks to his daughter), and dreams of watching every film on the IMDb Top 250 (except The Shining). He blogs at s-anand.net. His talks are at bit.ly/anandtalks.",
+            "talkTitle": "Title: Programming Minecraft with Websockets",
+            "type": "30-minute talk & Workshop",
+            "talkDetail": {
+              "p1": "Minecraft is the best-selling video game of all time, with 200 million copies sold. It's a full-fledged 3D construction environment. It looks blocky at first, but you can create beautiful worlds.",
+              "p2": "It turns out that Minecraft is quite programmable. You can send messages using WebSockets that can place blocks, create mobs, get information, and more.",
+              "p3": "Unfortunately, this is not officially documented. This talk is a guide to the reverse-engineered Minecraft WebSocket protocol, and how to control the system using Python.",
+              "h3": "Workshop : Exploring Network Clusters in Python",
+              "p4": "Network clustering is a powerful way of exploring social networks.",
+              "p5": "Take any social network. Say actors who act together. Or words that are similar. Or people who email each other. Or products that are bought together.",
+              "p6": "Clustering the network gives us sub-groups within the network -- like actors who generally act together, products that are often bought together, etc.",
+              "p7": "This workshop explores popular network clustering algorithms (using the scikit-network and networkx Python libraries) on real-world movie datasets -- letting you discover insights such as what it takes to connect two actors, and how Iranian and Turkish actors are far removed from Hollywood but close to each other."
+            },
+            "video-url": "https://www.youtube.com/watch?v=aK2cGcA7KkI"
+          },
+          "speaker14": {
+            "name": "Shayegan Hooshyari",
+            "title": "Data Engineer at DataChef",
+            "about": "Shayegan is a data engineer at DataChef and an open-source contributor. He currently focuses on building data platforms for companies on AWS. In the past, he’s worked on developing web applications and APIs. He graduated from the University of Tehran with a Bachelor's Degree in Applied Mathematics. He loves helping people become better at crafting software and has mentored many fellows by guiding them to turn their academic knowledge into real-world practices.",
+            "talkTitle": "Title: Step by step: code against code, or how to guarantee it actually works?!",
+            "type": "30-minute talk",
+            "talkDetail": {
+              "p1": "Not every piece of code is bug-free. This presentation will focus on writing test cases in Python and show how to have enough confidence in our code. It will also address the TDD (Test Driven Development) concept and explain how writing tests ahead of actual development could help have readable and less buggy code. Although writing [unit] tests might sound like a slowing factor, it is not! In this presentation, you will see how to split the process of writing tests into simpler chunks and use the PyTest library to write effective [unit] tests."
+            },
+            "video-url": "https://www.youtube.com/watch?v=aDFz5IY0ffM"
+          },
+          "speaker15": {
+            "name": "Mohammad Hassanzadeh",
+            "title": "Enterprise Solutions Unit Manager of Artarad",
+            "about": "Mohammad is the enterprise solutions unit manager of Artarad",
+            "talkTitle": "Title: Introduction of Odoo software",
+            "type": "30-minute talk",
+            "talkDetail": {
+              "p1": "Odoo is an open source, versatile business management software that meets the major needs of organizations seamlessly. Odoo ERP is great for small and medium-sized businesses, but large organizations are also interested in. The reason for the large organizations’ interest is the very dynamic and modern infrastructure and framework of Odoo that can be used as the infrastructure and custom production framework for these organizations. Logically, the framework and architecture, which has more than 80 applications and more than 25,000 modules and has more than 8 million online users, has passed the test, and it is much more reliable and favored by organizations than the frameworks that are just created and there is not enough experience in implementing numerous applications with many users on them. Today, many large companies and organizations use this software platform to produce the specialized and required software.",
+              "p2": "Odoo ERP is a system that is capable of meeting all the needs of businesses, including customer relationship management, purchasing, sales, accounting, personnel information, presence and absence, leave, salary, production, maintenance and repairs, costs, warehousing, website management and e-commerce, internal communications, messaging, etc. in a fully integrated manner.",
+              "p3": "Odoo has been the fastest growing enterprise software in the world for the past few years. This powerful software enables you to have quality software products tailored to your organizational needs in the shortest time and at a low cost."
+            },
+            "video-url": "https://www.youtube.com/watch?v=P18KDmzgK8g"
+          },
+          "speaker16": {
+            "name": "Richard Blythman",
+            "title": "Algovera Founder",
+            "about": "Richard is a machine learning engineer with a research background, and experience in Big Tech and startups. He became disillusioned with increasing centralization of the power of AI in the hands of a few big companies, and started Algovera to build tools to empower independent data scientists and AI startups.",
+            "talkTitle": "Title: A community of data scientists making it easier to build decentralized AI apps in Web3",
+            "type": "30-minute talk",
+            "talkDetail": {
+              "p1": "Web3 introduces many new tools such as data infrastructures and marketplaces, private AI technologies, tokenization and NFTs, DeFi and DAO tooling. This changes the workflow for AI practitioners quite significantly, as well as how they organize and collaborate. In this talk, we will explore how Algovera is making it easier for distributed communities of data scientists to come together online and build useful decentralized AI apps."
+            },
+            "video-url": " "
+          },
+          "speaker17": {
+            "name": "Padmaja Bhagwat",
+            "title": "Data Scientist at Glance",
+            "about": "Padmaja is a Data Scientist working at Glance. Her focus is on enhancing customer serviceability by using machine learning. In the past, she has used Deep Learning for automatic music generation and natural language understanding. She has given talks at PyCon India, PyCon US and DevConf India. She has a strong passion for dance and loves going on adventurous trips.",
+            "talkTitle": "Title: Churn Analysis: Let's act before it's too late",
+            "type": "30-minute talk",
+            "talkDetail": {
+              "p1": "Small businesses have limited purchasing spend and are limited in their choices for tools. The current economic situation accelerated due to COVID-19, has made retaining existing customers a much bigger priority than acquiring new ones.",
+              "p2": "I, just using the Python ecosystem, built a no-code tool to help small businesses identify customers who have churned and are at-risk of churning. The merchants (the users of the system) can either connect their sales system or upload a CSV - and the relevant insights and analytics are provided to them.",
+              "p3": "In this talk, I show how to build such a tool only using Python and discuss the design choices and challenges I faced when building such a system and talk on how to solve it.",
+              "p4": "The core machine learning part of the tool was to identify customers who are at-risk of churning. At-risk customers are identified using Survival analysis models. They predict the probability that a specific customer might churn, at various time intervals. I used PySurvival and Lifelines Python packages to predict churn. They provide a blend of standard/traditional survival analysis models as well as the ability to incorporate modern deep learning architectures using PyTorch models.",
+              "p5": "I built the front-end of the system using the Streamlit Python package. Streamlit is targeted towards data scientists to rapidly build UI and deploy the Machine Learning models, just using Python (No knowledge of HTML, CSS, and Javascript needed)."
+            },
+            "video-url": "https://www.youtube.com/watch?v=ANGKVjpayug"
+          },
+          "speaker18": {
+            "name": "Pouya Malekinejad",
+            "title": "Software Developer at Odoo S.A",
+            "about": "Works on Odoo implementation and development since 2013, as CTO and co-founder of Kenevist, ERP manager of Ariabeniz and CTO of Assanidea, he is currently working for Odoo S.A. in R&D.",
+            "talkTitle": "Title: Odoo, open source platform of business!",
+            "type": "30-minute talk",
+            "talkDetail": {
+              "p1": "In this presentation I will talk about what Odoo is, how it has become the fastest growing software company in Europe and how to use it for business application development. Codewise, Odoo has a great ORM and it is very flexible with a modular architecture. You are free to change it in any way you want, and 80% of the code is open source. I will make a quick application to see how fast it is to make any web based application."
+            },
+            "video-url": "https://www.youtube.com/watch?v=KWYgC4XTY4Y"
+          },
+          "speaker19": {
+            "name": "Xiaojian Wang",
+            "title": "Frontend and Machine Learning Engineer at Alibaba-inc",
+            "about": "Xiaojian Wang is currently a frontend and machine learning engineer at Alibaba-inc. As the developer of datacook.js, she is now focusing on bringing mahcine learning to the front-end area. Prior to that, she received her master degree on Statistics in Purdue University and co-founded online learning platform ZhidaoRenwen.",
+            "talkTitle": "Title: How We Build AI Libraries for Front-end Developers and Use AI in Front-end Area",
+            "type": "30-minute talk",
+            "talkDetail": {
+              "p1": "Nowadays, machine learning has been widely used in many areas. To identify what is the most popular programming language for AI and neural network, Python has taken a big lead with lots of outstanding libraries. However, the whole AI ecosystem is not friendly to web developers with different tech stack. In order to enable front-end developers to understand big data and build/train AI models easily, we develop Datacook, a machine learning and data analysis library in JavaScript. Meanwhile, to make this work applied in real production environment, we build Pipcook, a JavaScript end-to-end platform for building production ML pipelines based on Tensorflow.js. This talk will focus on thoughts behind Datacook/Pipcook and how we use them to apply AI in front-end area."
+            },
+            "video-url": "https://www.youtube.com/watch?v=XQlQqNYHOR4"
+          },
+          "speaker20": {
+            "name": "Rohollah Alamalhoda",
+            "title": "Software Expert",
+            "about": "Software expert and interested in Python and Django based development",
+            "talkTitle": "Title: Graphene in Django",
+            "type": "Workshop",
+            "talkDetail": {
+              "p1": "Since 2015, when GRAPHQL was published by Facebook as open source, it has been well received so far. Many large and reputable businesses and websites use GRAPHQL to serve.",
+              "p2": "GRAPHQL will be comparable to REST with a slight omission. This is a big claim, but maybe in the future GRAPHQL will replace REST.",
+              "p3": "For me as an API developer, GRAPHQL has many benefits, including the fact that I develop a very large portion of the required APIs very quickly and the user uses them as needed. This means that I do not have to hard code all the requirements on the server; I create a platform that covers a very large part of the requirements.",
+              "p4": "On the other hand, the user-side developer is no longer waiting for me to do a new server-side development for every need. He himself can cover a large part of his needs from the provided platform.",
+              "p5": "Another advantage is that GRAPHQL solves the problem of OVER-FETCHING and UNDER-FETCHING.",
+              "p6": "UNDER-FETCHING occurs when the server-side developer does not send all the data to save resources, especially the data that is sent from the server, and saves on sending data.",
+              "p7": "OVER-FETCHING occurs when the server-side developer for various reasons, including a decrease in the number of queries from the client, sends large amounts of data in one call. Using GRAPHQL, each client identifies exactly what data it needs and receives exactly the same data from the server. ",
+              "p8": "GRAPHQL is a new way of developing an API that will bring many benefits. In addition, security issues must be considered. This workshop also tries to address some of the security concerns."
+            },
+            "video-url": "https://www.youtube.com/watch?v=6EFlbSMG9os"
+          },
+          "keySpeaker1": {
+            "name": "Trent McConaghy",
+            "title": "Co-Founder of Ocean Protocol",
+            "about": "He co-founded Ocean Protocol, building decentralized tools to level the playing field for AI and data. He has worked on AI since the mid 90s, Python since the early 2000s, and blockchain since 2013.",
+            "talkTitle": "Title: Smart contract development with TokenSPICE & Brownie",
+            "type": "Keynote",
+            "talkDetail": {
+              "p1": "This talk describes how to leverage Python and data science skills for design and verification of Solidity smart contracts for Ethereum Virtual Machine (EVM). It will discuss how Brownie treats Solidity objects as Python objects, enabling more Python-based development flows. Then it describes how to use TokenSPICE to verify a contract via time-domain simulations involving many interacting agents, also in a Python data science oriented flow."
+            },
+            "video-url": "https://www.youtube.com/watch?v=nOCO9yp3ioQ"
+          },
+          "keySpeaker2": {
+            "name": "Thierry Carrez",
+            "title": "The Vice-President of Engineering at the Open Infrastructure Foundation",
+            "about": "Thierry Carrez is the Vice-President of Engineering at the Open Infrastructure Foundation. A systems engineer by trade, he was involved in the inception of the OpenStack project, and still contributes to its governance and release management. With a personal interest in the intersection of sociology and technology, Thierry spoke about open innovation and open source at various conferences around the world, including OSCON, LinuxCon, and FOSDEM. He currently serves as Secretary and Director for the Open Source Initiative. He was recognized as a Python Software Foundation fellow in 2012, and previously worked as the Technical lead for Ubuntu Server at Canonical, an operational manager for the Gentoo Linux Security Team, and an IT manager in various companies.",
+            "talkTitle": "Title: A Python-powered open source cloud: history and future of OpenStack",
+            "type": "Keynote",
+            "talkDetail": {
+              "p1": "The OpenStack project was started in 2010 to create a ubiquitous, open source cloud computing solution. Twelve years later, where are we? Is OpenStack still relevant? What lessons do we have for Python and open source? In this keynote talk, we will look back at the history of the OpenStack project, present lessons learned, and discuss its future."
+            },
+            "video-url": "https://www.youtube.com/watch?v=svaCMh7SYpc"
+          }
+        }
+      },
+      "sponsors": {
+        "description": "",
+        "page": {
+          "t1": "Sponsors",
+          "button": "Become Sponsor",
+          "p1": "PyconIr Conference is proud to have the support of the sponsors provided on this page.",
+          "p2": "Platinum",
+          "p3": "Gold",
+          "p4": "Silver"
+        },
+        "sponsors": {
+          "sponsor1": {
+            "span1": " For our 26 ",
+            "span2": "employees",
+            "span3": " chefs, we are a safe home with a trust-all, trust-by-default, inclusive, and international culture, and we’re investing in a very long inter-team relationship. We demand all chefs joining us to come with an owner mindset and have a voice in building DataChef together. People who choose DataChef are not resources, FTEs, or billable hours machines; they are talented humans who decided to spend the best hours of life with us. We’re wholeheartedly grateful for that decision, and we make their physical health, mental tranquillity, and financial gain our priority.",
+            "span4": "We are eager to with talented software developers from Iran, particularly those with a background in Data. Please take a look at the ",
+            "span5": "“Job Opportunities page”",
+            "span6": " ."
+          },
+          "sponsor2": {
+            "p1": "Host, run, and code Python in the cloud: PythonAnywhere"
+          },
+          "sponsor3": {
+            "p1": "Parscoders is the first freelancing platform in Iran"
+          },
+          "sponsor4": {
+            "p1": "Nearly 180,000 webmasters, programmers and IT managers are customers of IranServer, who have entrusted their most important asset, their business, to IranServer. The requests of this number of customers are managed by a team of 270 people. By a simple search on the Internet, you will find that the brand has made positive efforts to satisfy its customers and has been very successful. Implementing the latest agile management methods and using the latest tools and technologies, including artificial intelligence, are the reasons for this success. It does not matter if you are the owner of a small startup, network manager or manager of a large organization, IranServer will be your host and supporter until you achieve your dreams.",
+            "p2": " ",
+            "p3": " ",
+            "p4": " "
+          }
+        }
+      },
+      "sprints": {
+        "description": "",
+        "t1": "Sprints",
+        "t2": "What is a “Sprint”?",
+        "p1": "This year's Mentored Sprints will be run online through Zoom and Discord!",
+        "p2": "This is a great chance to get to know open source or to promote your open source project.",
+        "p3": "As is tradition, sprints are not organized by the conference organizers, but instead run by the attendees who want to put on a sprint. We only provide the virtual rooms and guidance on how to run the sprints.",
+        "p4": "Most open source software development happens on the web and developers usually communicate online only when working on projects. This usually works out fine, but the lack of live meetings can sometimes be a limiting factor in making good progress.",
+        "p5": "For this reason, a form of impromptu coding meetups called “sprints” or “hackathons” (outside the Python community, the term “hackathon” is more common) were initiated, where developers interested in a project can get together for a short period of time to make quick progress. Since conferences provide the perfect occasion to meet, sprints are made part of the conference program."
+      },
+      "startups": {
+        "description": "",
+        "t1": "Startup Row",
+        "t2": "Does your startup qualify? Here are the criteria:",
+        "t3": "Process",
+        "p1": "Startup Row is where early-stage companies go to show off what they’re doing with Python. At PyCon Iran, we reserve a special place for startup companies.",
+        "p2": "Startup Row gives early stage startups using Python a unique opportunity to connect with a motivated, highly technical crowd. Among the PyCon Iran attendees, could be a new co-founder, a startup's next investor, a future business partner, or even hundreds of new users. ",
+        "p3": "You use Python somewhere in your tech or business stack (open source, proprietary, data science, machine learning, orchestration, marketing automation… it all counts)",
+        "p4": "Your startup is 3 years old, or less, at time of applying (if you had a major pivot or delayed product launch, measure from there)",
+        "p5": "You have 15 or fewer full-time employees, including founders, at the time of applying",
+        "p6": "PyCon Iran 2021 Startup Row applications are open!",
+        "p7": "Good luck! We look forward to reviewing your application.",
+        "p8": "Please submit applications by Friday February 4, 2022 via email (team@ir.pycon.org).",
+        "p9": "The technological landscape of tomorrow will be formed by companies like your startup. Therefore, do not hesitate to participate."
+      }
+    }
+  }
+}

@@ -7,7 +7,7 @@ This repository contains PyCon Iran 2021 website.
 Website: https://ir.pycon.org/
 
 Email: team@ir.pycon.org
-<br/>
+
 <br/>
 <br/>
 <a href="https://www.youtube.com/channel/UC4h9WMROnH__sbdzOBW6l_w/featured"><img src="https://seeklogo.com/images/Y/youtube-2017-icon-logo-D1FE045118-seeklogo.com.png" alt="youtube-Logo" width="35"></img></a>
